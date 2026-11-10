@@ -55,12 +55,6 @@ Los pesos `yolov8n-seg.pt` y `yolov8n-pose.pt` se descargan solos la primera vez
 
 El video de la demo es una transmisión pública del Campeonato Mundial de Rápidas y Blitz FIDE; se usa solo con fines académicos y de demostración.
 
-## Equipo
-
-Proyecto integrador de Redes Neuronales, Ingeniería en Inteligencia Artificial, Universidad de Palermo (2026).
-
-Eugenio Altube · Simón Rubiño · Mariano Sánchez de Vera Bastone · Renato Rafael Lacherre Fernández · Franco Ariel Fariña · Jimena Medina
-
 ## Próximos pasos
 
 - Sumar las clases faltantes (rey, dama, peón) y más imágenes de entrenamiento.
