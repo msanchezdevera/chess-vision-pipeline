@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+runs/
+data/ajedrez_yolo26/
+data/raw_frames/
+*.mp4
+yolov8n*.pt
+.venv/

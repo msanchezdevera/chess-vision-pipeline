@@ -1,0 +1,8 @@
+# Dataset: Ajedrez_YOLO26 (Roboflow Universe, CC BY 4.0)
+# https://universe.roboflow.com/eugenios-workspace-anlae/ajedrez_yolo26
+path: data/ajedrez_yolo26
+train: train/images
+val: valid/images
+
+nc: 3
+names: ['Alfil', 'Caballo', 'Torre']
